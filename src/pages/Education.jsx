@@ -12,7 +12,7 @@ export const Education = () => {
           </h3>
           <p className="text-gray-600 mt-1">วิทยาลัยอาชีวศึกษานครปฐม | 2022 - 2024</p>
           <ul className="list-disc list-inside text-gray-500 mt-4">
-            <li>เน้นการเรียนรู้ด้านการออกแบบ UI/UX, Branding และ Motion Graphic</li>
+            <li>เน้นการเรียนรู้ด้านการออกแบบ UI/UX, และการเขียนโปรแกรมภาษาต่างๆ</li>
             <li>GPA: 3.48</li>
             <li>ทำโปรเจกต์จบการศึกษาเกี่ยวกับถังแยกขยะอัตโนมัติ</li>
           </ul>
