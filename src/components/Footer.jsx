@@ -18,7 +18,7 @@ export const Footer = () => {
           <a
             href="#"
             className="text-gray-400 hover:text-teal-400 transition-colors text-lg font-medium"
-            aria-label="Twitter"
+            aria-label="email"
           >
             Email
           </a>
