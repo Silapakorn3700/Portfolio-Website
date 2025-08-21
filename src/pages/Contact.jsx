@@ -52,7 +52,7 @@ const Contact = () => {
             <p className="text-gray-600">หรือติดต่อผ่านช่องทางอื่นๆ:</p>
             <div className="flex justify-center space-x-6">
               <a
-                href="silapakorn:miminion22@gmail.com"
+                href="mailto:miminion22@gmail.com"
                 className="text-gray-800 hover:text-teal-600 transition-colors text-lg font-semibold"
               >
                 Email

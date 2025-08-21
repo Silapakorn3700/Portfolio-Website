@@ -9,14 +9,14 @@ export const Footer = () => {
         </p>
         <div className="mt-4 md:mt-0 flex space-x-6">
           <a
-            href="#"
+            href="https://github.com/Silapakorn3700"
             className="text-gray-400 hover:text-teal-400 transition-colors text-lg font-medium"
             aria-label="GitHub"
           >
             GitHub
           </a>
           <a
-            href="#"
+            href="mailto:miminion22@gmail.com"
             className="text-gray-400 hover:text-teal-400 transition-colors text-lg font-medium"
             aria-label="email"
           >
